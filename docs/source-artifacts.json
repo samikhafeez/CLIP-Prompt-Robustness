@@ -1,0 +1,38 @@
+{
+  "preservation": "Notebook cells, outputs and execution counts unchanged; only metadata.widgets removed so GitHub can render the file. Report and recording are byte-for-byte copies kept locally.",
+  "artifacts": [
+    {
+      "original_filename": "Final Project Code-1 (1).ipynb",
+      "original_size_bytes": 2125591,
+      "original_sha256": "4015f1f0707dde6e7ead1242cce8bb79e66fcc000cbf6371227f1c3af2e94589",
+      "repository_path": "notebooks/clip_prompt_robustness.ipynb",
+      "size_bytes": 1951926,
+      "sha256": "f6012477e5fe50a4797e484f696f0732b71f6c56a7adc7dcd16cf6ef65f067f5",
+      "change": "Removed metadata.widgets (Colab progress-bar widget state without a 'state' key); re-serialised with the original two-space JSON formatting",
+      "tracked": true
+    },
+    {
+      "original_filename": "Final Report-1.docx",
+      "repository_path": "reports/Final Report.docx",
+      "size_bytes": 2687975,
+      "sha256": "04d59e5fb478051d3d00ca14ae3ef5626ec63069d96c8f909abb311ad4986cf8",
+      "tracked": false,
+      "note": "Cover page shows a student number and the supervisor's name"
+    },
+    {
+      "original_filename": "(export of Final Report-1.docx)",
+      "repository_path": "reports/Final Report.pdf",
+      "size_bytes": 1770615,
+      "sha256": "7817ed5ba313bc1cfc5ec16c2940e8dadaa58e749bfd630b1c48c43c7625e631",
+      "tracked": false,
+      "note": "PDF exported with LibreOffice for convenience; not the submitted file"
+    },
+    {
+      "original_filename": "Final Video (1).mp4",
+      "repository_path": "presentation/Final Video (1).mp4",
+      "size_bytes": 30771885,
+      "sha256": "e7dc8c639a33ca67c3d1aec571028ec7ed8b977340e040390ab3cd780cedb84f",
+      "tracked": false
+    }
+  ]
+}

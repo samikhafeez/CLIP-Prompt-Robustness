@@ -1,0 +1,58 @@
+[
+  {
+    "file": "retrieval-dog-ensemble-b.png",
+    "description": "Top-5 gallery images for the query 'dog' under Ensemble B",
+    "source_notebook_cell_one_based": 16,
+    "source_output_index_zero_based": 31,
+    "method": "Base64 decoded stored PNG; no rerun or visual alteration",
+    "sha256": "88e7d5e62b37b08081e84c3da6ea170d053e9885831dfdacd4bc5704df4f9424"
+  },
+  {
+    "file": "retrieval-cat-ensemble-c.png",
+    "description": "Top-5 gallery images for the query 'cat' under Ensemble C",
+    "source_notebook_cell_one_based": 16,
+    "source_output_index_zero_based": 47,
+    "method": "Base64 decoded stored PNG; no rerun or visual alteration",
+    "sha256": "5b27b5aed347208a81d8f7e690a45ed38d07bc87b5fb8d356149c1040a13adc1"
+  },
+  {
+    "file": "zero-shot-confusion-matrix.png",
+    "description": "Zero-shot confusion matrix, canonical prompts, 1,000 gallery images",
+    "source_notebook_cell_one_based": 18,
+    "source_output_index_zero_based": 2,
+    "method": "Base64 decoded stored PNG; no rerun or visual alteration",
+    "sha256": "b01a5bb68cf56f746455bfa394dafde5a727187d694b64d7c85088f90d36f7f5"
+  },
+  {
+    "file": "zero-shot-vs-linear-probe-confusion.png",
+    "description": "Zero-shot and linear-probe confusion matrices on the same 200 held-out images",
+    "source_notebook_cell_one_based": 25,
+    "source_output_index_zero_based": 0,
+    "method": "Base64 decoded stored PNG; no rerun or visual alteration",
+    "sha256": "8c7ce62c3588bdb6f3508ad0a7e208bb71be268c7772fb181b0c0c56b186d70e"
+  },
+  {
+    "file": "confusion-matrices-by-condition.png",
+    "description": "Confusion matrices for the canonical prompt and Ensembles A, B and C",
+    "source_notebook_cell_one_based": 34,
+    "source_output_index_zero_based": 1,
+    "method": "Base64 decoded stored PNG; no rerun or visual alteration",
+    "sha256": "9d9216e622d66197cce0b4988756e80f1acd335a0ac131d7b68ea8427b93bc7f"
+  },
+  {
+    "file": "per-class-f1-by-condition.png",
+    "description": "Per-class F1 under each prompt condition",
+    "source_notebook_cell_one_based": 34,
+    "source_output_index_zero_based": 3,
+    "method": "Base64 decoded stored PNG; no rerun or visual alteration",
+    "sha256": "0335588bcd2b1677587a3711bb836dcd80009653bc390d15218ac955c5209d45"
+  },
+  {
+    "file": "accuracy-by-condition.png",
+    "description": "Accuracy under each prompt condition",
+    "source_notebook_cell_one_based": 35,
+    "source_output_index_zero_based": 1,
+    "method": "Base64 decoded stored PNG; no rerun or visual alteration",
+    "sha256": "7cd299d6c2262a63cd800e69b134d0fab635062d3b66a4c54e8817532fd8ec20"
+  }
+]

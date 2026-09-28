@@ -1,0 +1,20 @@
+.DS_Store
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.env
+.env.*
+*.mkv
+*.mp4
+*.mov
+# The written report contains a student number; it is kept locally and not committed by default.
+reports/*.docx
+reports/*.pdf
+.claude/
+.claude-flow/
+.swarm/
+.ruflo/
+ruvector.db*
